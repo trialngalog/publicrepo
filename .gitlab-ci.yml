@@ -1,0 +1,9 @@
+a:
+  script:
+  - echo "script"
+  - echo "a"
+  cache:
+    key: "yoyoyo/asdf"
+    policy: push #or push if you like to poison
+    paths:
+      - .
