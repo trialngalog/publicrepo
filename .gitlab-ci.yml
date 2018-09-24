@@ -3,7 +3,7 @@ a:
   - echo "script"
   - echo "a"
   cache:
-    key: "yoyoyo/asdf"
+    key: "yoyaoyo/asdf"
     policy: push #or push if you like to poison
     paths:
       - .
