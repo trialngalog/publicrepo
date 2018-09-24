@@ -1,6 +1,6 @@
 a:
   script:
-  - echo "script"
+  - echo "scddript"
   - echo "a"
   cache:
     key: "yoyaoyo/asdf"
